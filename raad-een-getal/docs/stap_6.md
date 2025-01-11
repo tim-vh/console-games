@@ -14,3 +14,7 @@ De basis versie van het spel is nu af. Je kan het nu nog zelf verder uitbreiden.
 - Geef een hint of het opgegeven getal lager of hoger is dan het te raden getal.
 - Houd een highscore bij
 - Speel meerdere rondes
+
+---
+
+[Vorige stap](stap_5.md)
